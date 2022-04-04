@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Apple",
+        "text": "Awesome",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/L0dMGmQ/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Huawei",
+        "text": "Awesome",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/cvbQd8z/dmitry-rodionov-Pj-CQ5-4-Owa-I-unsplash.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Dell",
+        "text": "Awesome",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/9gPPgP5/erick-cerritos-i5-UV2-Hp-ITYA-unsplash.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Asus",
+        "text": "Awesome",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/RBzPKc9/gene-bautista-BCLy-Hn-C8-Prk-unsplash.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Lenovo",
+        "text": "Awesome",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/hRX1bkx/jexo-y-Vx-UC9-I9-Cik-unsplash.jpg"
+    },
+    {
+        "id": "6",
+        "name": "HP",
+        "text": "Awesome",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/FD5DNtj/HP.jpg"
+    }
+]
