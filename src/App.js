@@ -6,6 +6,7 @@ import Home from './Components/Home/Home/Home';
 
 
 import Navbars from './Components/Navbar/Navbar';
+import NotFound from './Components/NotFound/NotFound';
 import Review from './Components/Review/Review';
 
 
@@ -19,6 +20,7 @@ function App() {
          <Route path="/" element={<Home/>} />
         <Route path="/reviews" element={<Review/>} /> 
         <Route path="/dashboard" element={<Dashboard/>} /> 
+        <Route path="*" element={<NotFound/>} /> 
        
       </Routes> 
     
