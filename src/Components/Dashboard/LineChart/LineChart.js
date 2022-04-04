@@ -12,7 +12,7 @@ const LineCharts = ({data}) => {
   <Tooltip />
   <Legend />
   <Line type="monotone" dataKey="sell" stroke="#8884d8" />
-  <Line type="monotone" dataKey="revenue" stroke="#82ca9d" />
+  {/* <Line type="monotone" dataKey="revenue" stroke="#82ca9d" /> */}
 </LineChart>
     );
 };

@@ -48,20 +48,24 @@ const Dashboard = () => {
     return (
         <div className=''>
             <div className='row mt-5 pt-5'>
-                <div className='col-md-3 '>
+                <div className='col-md-3'>
+                    <h5 className='text-info'>MONTH WISE SELL</h5>
                 <LineCharts data={data}/>
 
                 </div>
                 <div className='col-md-3 m-auto'>
+                <h5 className='text-info'>Investment vs Revenue</h5>
                     <AreaGraph data={data}/>
                     </div>
             </div>
             <div className='row mt-5 pt-5'>
                 <div className='col-md-5'>
+                <h5 className='text-info'>Investment vs Revenue</h5>
                 <BarGraph data={data}/>
 
                 </div>
                 <div className='col-md-5'>
+                <h5 className='text-info'>Investment vs Revenue</h5>
                     <PieGraph data={data} />
                     
                     </div>

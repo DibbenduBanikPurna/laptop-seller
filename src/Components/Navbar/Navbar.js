@@ -13,7 +13,7 @@ const Navbars = () => {
             <Nav.Link as={Link} to="/">Home</Nav.Link>
             <Nav.Link as={Link} to="/reviews">Reviews</Nav.Link>
             <Nav.Link as={Link} to="/dashboard">Dashboard</Nav.Link>
-            <Nav.Link as={Link} to="/blogs">Blogs</Nav.Link>
+            <Nav.Link as={Link} to="/blog">Blogs</Nav.Link>
             <Nav.Link as={Link} to="/about">About</Nav.Link>
           </Nav>
           </Navbar.Collapse>
